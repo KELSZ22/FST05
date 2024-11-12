@@ -39,4 +39,11 @@ git log
 - Check Commit History in Git (Shortened/Summarized)
 git log --oneline
 
--git branch
+- Create a branch
+git branch [branch_name]
+
+- List all existing branches
+git branch -a
+
+- Switch/move to a different branch
+git checkout [branch_name]
