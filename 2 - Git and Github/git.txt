@@ -38,3 +38,5 @@ git log
 
 - Check Commit History in Git (Shortened/Summarized)
 git log --oneline
+
+-git branch
